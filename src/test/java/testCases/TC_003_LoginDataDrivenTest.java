@@ -49,6 +49,7 @@ public class TC_003_LoginDataDrivenTest extends BaseClass{
 			else
 			{
 				Assert.fail();
+				//Assert.assertTrue(false);
 			}
 		}
 		
@@ -59,6 +60,7 @@ public class TC_003_LoginDataDrivenTest extends BaseClass{
 			{
 				macc.clickLogout();
 				Assert.fail();
+				//	Assert.assertTrue(false);
 			}
 			else
 			{

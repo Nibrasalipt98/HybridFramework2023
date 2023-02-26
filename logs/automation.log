@@ -321,3 +321,8 @@
 14:36:55.393 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
 14:36:56.481 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
 14:37:12.523 [main] INFO  testCases.TC_002_LoginTest - ***** String TC_002_LoginTest ****
+17:39:15.998 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********* staring TC_001_AccountRegistrationTest ******
+17:39:16.062 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on myaccount link
+17:39:16.192 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
+17:39:17.118 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
+17:39:32.915 [main] INFO  testCases.TC_002_LoginTest - ***** String TC_002_LoginTest ****

@@ -1,2 +1,2 @@
-cd C:\Users\Nibras Ali\eclipse workspace_Tester\opencart_dec2022-master\opencart_dec2022-master
+cd C:\Users\Nibras Ali\git\HybridFramework2023
 mvn test
